@@ -1,0 +1,25 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_exercice1.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+commit ed415de38fd54395c18f44df4bb2a1c60233875a
+Author: samanehmahboudi <e2495960@cmaisonneuve.qc.ca>
+Date:   Thu Sep 25 14:14:51 2025 -0400
+
+    ajouter les info dans fichier
+
+commit 616d29d7d13b3266e9cdac7a13d29e5d4cb62976
+Author: samanehmahboudi <e2495960@cmaisonneuve.qc.ca>
+Date:   Thu Sep 25 13:49:17 2025 -0400
+
+    Init: add index.html, style.css, main.js
+
+commit fcf089a98d33397740031c19cc7d2290345d9130
+Author: Samaneh Mahboudi <e2495960@cmaisonneuve.qc.ca>
+Date:   Thu Sep 25 13:31:20 2025 -0400
+
+    Initial commit
